@@ -2,6 +2,8 @@ package Assignment1;
 import java.util.*;
 public class HA1 {
 	public static void main(String[] args) {
+
+		System.out.println("hello");
 		// TODO Auto-generated method stub
 		 Scanner input = new Scanner(System.in); 
 		 
